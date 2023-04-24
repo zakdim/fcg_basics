@@ -2,7 +2,7 @@
 
 # Exclude CMake
 *.cmake linguist-detectable=false
-*.cmake.in linguist-detectable=false
+*.cmake.* linguist-detectable=false
 
 # Exclude C++
  *.cpp linguist-detectable=false
@@ -24,4 +24,3 @@
  *.re linguist-detectable=false
  *.tcc linguist-detectable=false
  *.tpp linguist-detectable=false
- 
