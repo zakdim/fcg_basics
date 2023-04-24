@@ -20,3 +20,7 @@
  *.re linguist-detectable=false
  *.tcc linguist-detectable=false
  *.tpp linguist-detectable=false
+
+# Exclude CMake
+*.cmake linguist-detectable=false
+*.cmake.in linguist-detectable=false
